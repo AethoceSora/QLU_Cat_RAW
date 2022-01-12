@@ -1,0 +1,45 @@
+site_name: QLU_Cat
+nav:
+- 'index.md'
+- 体育场附近:
+  - 简介: '体育场主页.md'
+  - 猫妈（黑黄): '未命名（猫妈妈）.md'
+  - 杀神（黑色）: '杀神（黑色）.md'
+  - 未命名（白花）: '未命名（白花）.md'
+- 27#宿舍楼下:
+  - 简介: '27号楼主页.md'
+  - 未命名（鼻涕）: '未命名（鼻涕）.md'
+  - 未命名（狸花）: '未命名（狸花）.md'
+- 京东快递点:
+  - 'null.md'
+- 行踪不定:
+  - 大花: '大花.md'
+  - 未命名（白项圈）: '未识别（黑白）.md'
+- 暂未识别:
+  - 未识别（小墨点）: '未识别（黑点点）.md'
+  - 未识别（白色长胸毛）: '未识别(白色长胸毛).md'
+- 杂谈:
+  - 关于杂谈: '杂谈主页.md'
+  - 大花临幸117宿舍: '杂谈（大花临幸117宿舍）.md'
+- 关于本项目:
+  - About: 'about.md'
+  - 更新日志: 'ChangeLog.md'
+extra:
+  disqus: <shortname>
+
+
+theme: material
+ 
+
+
+theme:
+  name: material
+  custom_dir: mdt
+  features:
+    - navigation.tabs
+  logo: logo.png
+
+extra:
+  analytics:
+    provider: google
+    property: G-LCJ1JTBXFX
